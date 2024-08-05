@@ -1,7 +1,5 @@
-# Falcon9-launch-DS
+# Falcon9 Launch Data Science Capstone
 Predicting if the Falcon 9 first stage will land successfully
-
-# IBM Data Science Capstone Project - SpaceX
 
 ## Introduction
 
